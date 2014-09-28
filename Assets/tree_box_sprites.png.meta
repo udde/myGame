@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 2abd52c266bdeaa46833ea6fea50e38e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tree_box_sprites_0
+    21300002: tree_box_sprites_1
+    21300004: tree_box_sprites_2
+    21300006: tree_box_sprites_3
+    21300008: tree_box_sprites_4
+    21300010: tree_box_sprites_5
+    21300012: tree_box_sprites_6
+    21300014: tree_box_sprites_7
+    21300016: tree_box_sprites_8
+    21300018: tree_box_sprites_9
+    21300020: tree_box_sprites_10
+    21300022: tree_box_sprites_11
+    21300024: tree_box_sprites_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tree_box_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 280
+        width: 183
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_box_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 386
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_box_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 296
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_box_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 195
+        width: 228
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_box_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 231
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_box_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 232
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_box_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 150
+        width: 228
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_box_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 129
+        width: 31
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_box_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 129
+        width: 31
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_box_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 52
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_box_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 15
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_box_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 21
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree_box_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 19
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
