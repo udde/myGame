@@ -32,9 +32,9 @@ public class ExtraCol : MonoBehaviour {
 
 
 		float goal = x - 5;
-		while (transform.position.x > goal) {
+		/*while (transform.position.x > goal) {
 			player.rigidbody2D.velocity = new Vector3(-3, 0, 0);
-		}
+		}*/
 
 
 	}
