@@ -1,11 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ExtraCol.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sample Assets\2D\Scripts\PlatformerCharacter2D.cs">
     <Files>
-      <File FileName="Assets\Parallaxing.cs" Line="33" Column="36" />
-      <File FileName="Assets\ExtraCol.cs" Line="20" Column="39" />
-      <File FileName="Assets\Sample Assets\2D\Scripts\PlatformerCharacter2D.cs" Line="31" Column="2" />
-      <File FileName="Assets\Sample Assets\2D\Scripts\Platformer2DUserControl.cs" Line="9" Column="2" />
+      <File FileName="Assets\Sample Assets\2D\Scripts\PlatformerCharacter2D.cs" Line="45" Column="3" />
+      <File FileName="Assets\Sample Assets\2D\Scripts\Platformer2DUserControl.cs" Line="33" Column="3" />
+      <File FileName="Assets\Parallaxing.cs" Line="22" Column="33" />
+      <File FileName="Assets\CollisionSpinn.js" Line="8" Column="1" />
+      <File FileName="Assets\ExtraCol.cs" Line="29" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

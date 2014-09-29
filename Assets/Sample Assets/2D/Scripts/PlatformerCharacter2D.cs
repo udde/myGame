@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-
+[RequireComponent(typeof(PlatformerCharacter2D))]
 public class PlatformerCharacter2D : MonoBehaviour 
 {
 	bool facingRight = true;							// For determining which way the player is currently facing.
